@@ -1,0 +1,7 @@
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\bin\Debug\ConAppOrdersDb.exe.config
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\bin\Debug\ConAppOrdersDb.exe
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\bin\Debug\ConAppOrdersDb.pdb
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\obj\Debug\ConAppOrdersDb.csproj.AssemblyReference.cache
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\obj\Debug\ConAppOrdersDb.csproj.CoreCompileInputs.cache
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\obj\Debug\ConAppOrdersDb.exe
+D:\Mphasis\.net\Phase2\Day9\Assignment 9\ConAppOrdersDb\ConAppOrdersDb\obj\Debug\ConAppOrdersDb.pdb
